@@ -1,6 +1,5 @@
 ![version](https://img.shields.io/badge/version-1.0.0-brightgreen)
 ![rating](https://img.shields.io/badge/rating-★★★★☆-brightgreen)
-[![Downloads](https://pepy.tech/badge/video2tfrecord/week)](https://pepy.tech/project/video2tfrecord/week)
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
