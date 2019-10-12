@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/45894054/64475684-f5831000-d1af-11e9-9409-20cf53e39c30.png" alt="Logo" width="150" height="150">
+    <img src="https://user-images.githubusercontent.com/45894054/66696525-f222fd00-ecf6-11e9-8ad0-960423ca21fc.png" alt="Logo" width="150" height="150">
 
   <h3 align="center">DISCORD MIQCRAFT STYLE</h3>
 
