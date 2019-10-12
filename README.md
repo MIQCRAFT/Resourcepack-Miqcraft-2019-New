@@ -1,5 +1,6 @@
 ![version](https://img.shields.io/badge/version-1.0.0-brightgreen)
 ![rating](https://img.shields.io/badge/rating-★★★★☆-brightgreen)
+[![Github All Releases](https://img.shields.io/github/downloads/atom/atom/total.svg)]()
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
